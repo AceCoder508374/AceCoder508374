@@ -1,5 +1,5 @@
 ## Bhaumik Singh 
-> ![](https://komarev.com/ghpvc/?username=AceCoder508374)
+
 
 # About me 
 - im a Freshmen in Highschool
@@ -29,8 +29,11 @@
 - Coding Blocks
 - GitHub
 
+# Github Stats/profile view counter
 
-[https://github-stats.omsimos.com/user/mMcg?theme=gruvbox&hide_border=true&count_private=true](https://github-stats.omsimos.com/user/AceCoder508374?theme=default&hide_border=true&count_private=true)
+> ![](https://komarev.com/ghpvc/?username=AceCoder508374)
+
+[Stats](https://github-stats.omsimos.com/user/mMcg?theme=gruvbox&hide_border=true&count_private=true](https://github-stats.omsimos.com/user/AceCoder508374?theme=default&hide_border=true&count_private=true)
 
 
 
