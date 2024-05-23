@@ -26,8 +26,8 @@
 
 
 # Technology Stack
-- Coding Blocks
-- GitHub
+- Coding Blocks ⬛
+- GitHub 👍
 
 # Github Stats/profile view counter
 
