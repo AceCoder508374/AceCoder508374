@@ -33,7 +33,14 @@
 
 > ![](https://komarev.com/ghpvc/?username=AceCoder508374)
 
-[Stats](https://github-stats.omsimos.com/user/mMcg?theme=gruvbox&hide_border=true&count_private=true](https://github-stats.omsimos.com/user/AceCoder508374?theme=default&hide_border=true&count_private=true)
+<p align='center'>
+	   <a href="https://github-readme-stats.vercel.app/api?username=AceCoder508374&show_icons=true&count_private=true">
+	       <img height=150 src="https://github-readme-stats.vercel.app/api?username=AceCoder508374&show_icons=true&count_private=true"/>
+	   </a>
+	   <a href="https://github.com/AceCoder508374/github-readme-stats">
+	       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceCoder508374&layout=compact"/>
+	   </a>
+</p>
 
 
 
